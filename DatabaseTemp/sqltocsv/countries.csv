@@ -1,0 +1,250 @@
+1,Afghanistan,AFG,3,14,Kabul,33.000000,65.000000
+2,Aland Islands,ALA,4,18,Mariehamn,60.116667,19.900000
+3,Albania,ALB,4,16,Tirana,41.000000,20.000000
+4,Algeria,DZA,1,1,Algiers,28.000000,3.000000
+5,American Samoa,ASM,5,22,Pago Pago,-14.333333,-170.000000
+6,Andorra,AND,4,16,Andorra la Vella,42.500000,1.500000
+7,Angola,AGO,1,2,Luanda,-12.500000,18.500000
+8,Anguilla,AIA,2,7,The Valley,18.250000,-63.166667
+9,Antarctica,ATA,6,,,-74.650000,4.480000
+10,Antigua and Barbuda,ATG,2,7,St. John's,17.050000,-61.800000
+11,Argentina,ARG,2,8,Buenos Aires,-34.000000,-64.000000
+12,Armenia,ARM,3,11,Yerevan,40.000000,45.000000
+13,Aruba,ABW,2,7,Oranjestad,12.500000,-69.966667
+14,Australia,AUS,5,19,Canberra,-27.000000,133.000000
+15,Austria,AUT,4,17,Vienna,47.333333,13.333333
+16,Azerbaijan,AZE,3,11,Baku,40.500000,47.500000
+18,Bahrain,BHR,3,11,Manama,26.000000,50.550000
+19,Bangladesh,BGD,3,14,Dhaka,24.000000,90.000000
+20,Barbados,BRB,2,7,Bridgetown,13.166667,-59.533333
+21,Belarus,BLR,4,15,Minsk,53.000000,28.000000
+22,Belgium,BEL,4,17,Brussels,50.833333,4.000000
+23,Belize,BLZ,2,9,Belmopan,17.250000,-88.750000
+24,Benin,BEN,1,3,Porto-Novo,9.500000,2.250000
+25,Bermuda,BMU,2,6,Hamilton,32.333333,-64.750000
+26,Bhutan,BTN,3,14,Thimphu,27.500000,90.500000
+27,Bolivia,BOL,2,8,Sucre,-17.000000,-65.000000
+155,"Bonaire, Sint Eustatius and Saba",BES,2,7,Kralendijk,12.150000,-68.266667
+28,Bosnia and Herzegovina,BIH,4,16,Sarajevo,44.000000,18.000000
+29,Botswana,BWA,1,5,Gaborone,-22.000000,24.000000
+30,Bouvet Island,BVT,6,,,-54.433333,3.400000
+31,Brazil,BRA,2,8,Brasilia,-10.000000,-55.000000
+32,British Indian Ocean Territory,IOT,1,4,Diego Garcia,-6.000000,71.500000
+33,Brunei,BRN,3,13,Bandar Seri Begawan,4.500000,114.666667
+34,Bulgaria,BGR,4,15,Sofia,43.000000,25.000000
+35,Burkina Faso,BFA,1,3,Ouagadougou,13.000000,-2.000000
+36,Burundi,BDI,1,4,Bujumbura,-3.500000,30.000000
+37,Cambodia,KHM,3,13,Phnom Penh,13.000000,105.000000
+38,Cameroon,CMR,1,2,Yaounde,6.000000,12.000000
+39,Canada,CAN,2,6,Ottawa,60.000000,-95.000000
+40,Cape Verde,CPV,1,3,Praia,16.000000,-24.000000
+41,Cayman Islands,CYM,2,7,George Town,19.500000,-80.500000
+42,Central African Republic,CAF,1,2,Bangui,7.000000,21.000000
+43,Chad,TCD,1,2,N'Djamena,15.000000,19.000000
+44,Chile,CHL,2,8,Santiago,-30.000000,-71.000000
+45,China,CHN,3,12,Beijing,35.000000,105.000000
+46,Christmas Island,CXR,5,19,Flying Fish Cove,-10.500000,105.666667
+47,Cocos (Keeling) Islands,CCK,5,19,West Island,-12.500000,96.833333
+48,Colombia,COL,2,8,Bogotá,4.000000,-72.000000
+49,Comoros,COM,1,4,Moroni,-12.166667,44.250000
+50,Congo,COG,1,2,Brazzaville,-1.000000,15.000000
+52,Cook Islands,COK,5,22,Avarua,-21.233333,-159.766667
+53,Costa Rica,CRI,2,9,San Jose,10.000000,-84.000000
+54,Cote D'Ivoire (Ivory Coast),CIV,1,3,Yamoussoukro,8.000000,-5.000000
+55,Croatia,HRV,4,16,Zagreb,45.166667,15.500000
+56,Cuba,CUB,2,7,Havana,21.500000,-80.000000
+249,Curaçao,CUW,2,7,Willemstad,12.116667,-68.933333
+57,Cyprus,CYP,4,16,Nicosia,35.000000,33.000000
+58,Czech Republic,CZE,4,15,Prague,49.750000,15.500000
+51,Democratic Republic of the Congo,COD,1,2,Kinshasa,0.000000,25.000000
+59,Denmark,DNK,4,18,Copenhagen,56.000000,10.000000
+60,Djibouti,DJI,1,4,Djibouti,11.500000,43.000000
+61,Dominica,DMA,2,7,Roseau,15.416667,-61.333333
+62,Dominican Republic,DOM,2,7,Santo Domingo,19.000000,-70.666667
+64,Ecuador,ECU,2,8,Quito,-2.000000,-77.500000
+65,Egypt,EGY,1,1,Cairo,27.000000,30.000000
+66,El Salvador,SLV,2,9,San Salvador,13.833333,-88.916667
+67,Equatorial Guinea,GNQ,1,2,Malabo,2.000000,10.000000
+68,Eritrea,ERI,1,4,Asmara,15.000000,39.000000
+69,Estonia,EST,4,18,Tallinn,59.000000,26.000000
+212,Eswatini,SWZ,1,5,Mbabane,-26.500000,31.500000
+70,Ethiopia,ETH,1,4,Addis Ababa,8.000000,38.000000
+71,Falkland Islands,FLK,2,8,Stanley,-51.750000,-59.000000
+72,Faroe Islands,FRO,4,18,Torshavn,62.000000,-7.000000
+73,Fiji Islands,FJI,5,20,Suva,-18.000000,175.000000
+74,Finland,FIN,4,18,Helsinki,64.000000,26.000000
+75,France,FRA,4,17,Paris,46.000000,2.000000
+76,French Guiana,GUF,2,8,Cayenne,4.000000,-53.000000
+77,French Polynesia,PYF,5,22,Papeete,-15.000000,-140.000000
+78,French Southern Territories,ATF,1,5,Port-aux-Francais,-49.250000,69.167000
+79,Gabon,GAB,1,2,Libreville,-1.000000,11.750000
+81,Georgia,GEO,3,11,Tbilisi,42.000000,43.500000
+82,Germany,DEU,4,17,Berlin,51.000000,9.000000
+83,Ghana,GHA,1,3,Accra,8.000000,-2.000000
+84,Gibraltar,GIB,4,16,Gibraltar,36.133333,-5.350000
+85,Greece,GRC,4,16,Athens,39.000000,22.000000
+86,Greenland,GRL,2,6,Nuuk,72.000000,-40.000000
+87,Grenada,GRD,2,7,St. George's,12.116667,-61.666667
+88,Guadeloupe,GLP,2,7,Basse-Terre,16.250000,-61.583333
+89,Guam,GUM,5,21,Hagatna,13.466667,144.783333
+90,Guatemala,GTM,2,9,Guatemala City,15.500000,-90.250000
+91,Guernsey and Alderney,GGY,4,18,St Peter Port,49.466667,-2.583333
+92,Guinea,GIN,1,3,Conakry,11.000000,-10.000000
+93,Guinea-Bissau,GNB,1,3,Bissau,12.000000,-15.000000
+94,Guyana,GUY,2,8,Georgetown,5.000000,-59.000000
+95,Haiti,HTI,2,7,Port-au-Prince,19.000000,-72.416667
+96,Heard Island and McDonald Islands,HMD,6,,,-53.100000,72.516667
+97,Honduras,HND,2,9,Tegucigalpa,15.000000,-86.500000
+98,Hong Kong S.A.R.,HKG,3,12,Hong Kong,22.250000,114.166667
+99,Hungary,HUN,4,15,Budapest,47.000000,20.000000
+100,Iceland,ISL,4,18,Reykjavik,65.000000,-18.000000
+101,India,IND,3,14,New Delhi,20.000000,77.000000
+102,Indonesia,IDN,3,13,Jakarta,-5.000000,120.000000
+103,Iran,IRN,3,14,Tehran,32.000000,53.000000
+104,Iraq,IRQ,3,11,Baghdad,33.000000,44.000000
+105,Ireland,IRL,4,18,Dublin,53.000000,-8.000000
+106,Israel,ISR,3,11,Jerusalem,31.500000,34.750000
+107,Italy,ITA,4,16,Rome,42.833333,12.833333
+108,Jamaica,JAM,2,7,Kingston,18.250000,-77.500000
+109,Japan,JPN,3,12,Tokyo,36.000000,138.000000
+110,Jersey,JEY,4,18,Saint Helier,49.250000,-2.166667
+111,Jordan,JOR,3,11,Amman,31.000000,36.000000
+112,Kazakhstan,KAZ,3,10,Astana,48.000000,68.000000
+113,Kenya,KEN,1,4,Nairobi,1.000000,38.000000
+114,Kiribati,KIR,5,21,Tarawa,1.416667,173.000000
+248,Kosovo,XKX,4,15,Pristina,42.561291,20.340304
+117,Kuwait,KWT,3,11,Kuwait City,29.500000,45.750000
+118,Kyrgyzstan,KGZ,3,10,Bishkek,41.000000,75.000000
+119,Laos,LAO,3,13,Vientiane,18.000000,105.000000
+120,Latvia,LVA,4,18,Riga,57.000000,25.000000
+121,Lebanon,LBN,3,11,Beirut,33.833333,35.833333
+122,Lesotho,LSO,1,5,Maseru,-29.500000,28.500000
+123,Liberia,LBR,1,3,Monrovia,6.500000,-9.500000
+124,Libya,LBY,1,1,Tripolis,25.000000,17.000000
+125,Liechtenstein,LIE,4,17,Vaduz,47.266667,9.533333
+126,Lithuania,LTU,4,18,Vilnius,56.000000,24.000000
+127,Luxembourg,LUX,4,17,Luxembourg,49.750000,6.166667
+128,Macau S.A.R.,MAC,3,12,Macao,22.166667,113.550000
+130,Madagascar,MDG,1,4,Antananarivo,-20.000000,47.000000
+131,Malawi,MWI,1,4,Lilongwe,-13.500000,34.000000
+132,Malaysia,MYS,3,13,Kuala Lumpur,2.500000,112.500000
+133,Maldives,MDV,3,14,Male,3.250000,73.000000
+134,Mali,MLI,1,3,Bamako,17.000000,-4.000000
+135,Malta,MLT,4,16,Valletta,35.833333,14.583333
+136,Man (Isle of),IMN,4,18,"Douglas, Isle of Man",54.250000,-4.500000
+137,Marshall Islands,MHL,5,21,Majuro,9.000000,168.000000
+138,Martinique,MTQ,2,7,Fort-de-France,14.666667,-61.000000
+139,Mauritania,MRT,1,3,Nouakchott,20.000000,-12.000000
+140,Mauritius,MUS,1,4,Port Louis,-20.283333,57.550000
+141,Mayotte,MYT,1,4,Mamoudzou,-12.833333,45.166667
+142,Mexico,MEX,2,9,Ciudad de México,23.000000,-102.000000
+143,Micronesia,FSM,5,21,Palikir,6.916667,158.250000
+144,Moldova,MDA,4,15,Chisinau,47.000000,29.000000
+145,Monaco,MCO,4,17,Monaco,43.733333,7.400000
+146,Mongolia,MNG,3,12,Ulan Bator,46.000000,105.000000
+147,Montenegro,MNE,4,16,Podgorica,42.500000,19.300000
+148,Montserrat,MSR,2,7,Plymouth,16.750000,-62.200000
+149,Morocco,MAR,1,1,Rabat,32.000000,-5.000000
+150,Mozambique,MOZ,1,4,Maputo,-18.250000,35.000000
+151,Myanmar,MMR,3,13,Nay Pyi Taw,22.000000,98.000000
+152,Namibia,NAM,1,5,Windhoek,-22.000000,17.000000
+153,Nauru,NRU,5,21,Yaren,-0.533333,166.916667
+154,Nepal,NPL,3,14,Kathmandu,28.000000,84.000000
+156,Netherlands,NLD,4,17,Amsterdam,52.500000,5.750000
+157,New Caledonia,NCL,5,20,Noumea,-21.500000,165.500000
+158,New Zealand,NZL,5,19,Wellington,-41.000000,174.000000
+159,Nicaragua,NIC,2,9,Managua,13.000000,-85.000000
+160,Niger,NER,1,3,Niamey,16.000000,8.000000
+161,Nigeria,NGA,1,3,Abuja,10.000000,8.000000
+162,Niue,NIU,5,22,Alofi,-19.033333,-169.866667
+163,Norfolk Island,NFK,5,19,Kingston,-29.033333,167.950000
+115,North Korea,PRK,3,12,Pyongyang,40.000000,127.000000
+129,North Macedonia,MKD,4,16,Skopje,41.833333,22.000000
+164,Northern Mariana Islands,MNP,5,21,Saipan,15.200000,145.750000
+165,Norway,NOR,4,18,Oslo,62.000000,10.000000
+166,Oman,OMN,3,11,Muscat,21.000000,57.000000
+167,Pakistan,PAK,3,14,Islamabad,30.000000,70.000000
+168,Palau,PLW,5,21,Melekeok,7.500000,134.500000
+169,Palestinian Territory Occupied,PSE,3,11,East Jerusalem,31.900000,35.200000
+170,Panama,PAN,2,9,Panama City,9.000000,-80.000000
+171,Papua New Guinea,PNG,5,20,Port Moresby,-6.000000,147.000000
+172,Paraguay,PRY,2,8,Asuncion,-23.000000,-58.000000
+173,Peru,PER,2,8,Lima,-10.000000,-76.000000
+174,Philippines,PHL,3,13,Manila,13.000000,122.000000
+175,Pitcairn Island,PCN,5,22,Adamstown,-25.066667,-130.100000
+176,Poland,POL,4,15,Warsaw,52.000000,20.000000
+177,Portugal,PRT,4,16,Lisbon,39.500000,-8.000000
+178,Puerto Rico,PRI,2,7,San Juan,18.250000,-66.500000
+179,Qatar,QAT,3,11,Doha,25.500000,51.250000
+180,Reunion,REU,1,4,Saint-Denis,-21.150000,55.500000
+181,Romania,ROU,4,15,Bucharest,46.000000,25.000000
+182,Russia,RUS,4,15,Moscow,60.000000,100.000000
+183,Rwanda,RWA,1,4,Kigali,-2.000000,30.000000
+184,Saint Helena,SHN,1,3,Jamestown,-15.950000,-5.700000
+185,Saint Kitts and Nevis,KNA,2,7,Basseterre,17.333333,-62.750000
+186,Saint Lucia,LCA,2,7,Castries,13.883333,-60.966667
+187,Saint Pierre and Miquelon,SPM,2,6,Saint-Pierre,46.833333,-56.333333
+188,Saint Vincent and the Grenadines,VCT,2,7,Kingstown,13.250000,-61.200000
+189,Saint-Barthelemy,BLM,2,7,Gustavia,18.500000,-63.416667
+190,Saint-Martin (French part),MAF,2,7,Marigot,18.083333,-63.950000
+191,Samoa,WSM,5,22,Apia,-13.583333,-172.333333
+192,San Marino,SMR,4,16,San Marino,43.766667,12.416667
+193,Sao Tome and Principe,STP,1,2,Sao Tome,1.000000,7.000000
+194,Saudi Arabia,SAU,3,11,Riyadh,25.000000,45.000000
+195,Senegal,SEN,1,3,Dakar,14.000000,-14.000000
+196,Serbia,SRB,4,16,Belgrade,44.000000,21.000000
+197,Seychelles,SYC,1,4,Victoria,-4.583333,55.666667
+198,Sierra Leone,SLE,1,3,Freetown,8.500000,-11.500000
+199,Singapore,SGP,3,13,Singapur,1.366667,103.800000
+250,Sint Maarten (Dutch part),SXM,2,7,Philipsburg,18.033333,-63.050000
+200,Slovakia,SVK,4,15,Bratislava,48.666667,19.500000
+201,Slovenia,SVN,4,16,Ljubljana,46.116667,14.816667
+202,Solomon Islands,SLB,5,20,Honiara,-8.000000,159.000000
+203,Somalia,SOM,1,4,Mogadishu,10.000000,49.000000
+204,South Africa,ZAF,1,5,Pretoria,-29.000000,24.000000
+205,South Georgia,SGS,2,8,Grytviken,-54.500000,-37.000000
+116,South Korea,KOR,3,12,Seoul,37.000000,127.500000
+206,South Sudan,SSD,1,2,Juba,7.000000,30.000000
+207,Spain,ESP,4,16,Madrid,40.000000,-4.000000
+208,Sri Lanka,LKA,3,14,Colombo,7.000000,81.000000
+209,Sudan,SDN,1,1,Khartoum,15.000000,30.000000
+210,Suriname,SUR,2,8,Paramaribo,4.000000,-56.000000
+211,Svalbard and Jan Mayen Islands,SJM,4,18,Longyearbyen,78.000000,20.000000
+213,Sweden,SWE,4,18,Stockholm,62.000000,15.000000
+214,Switzerland,CHE,4,17,Bern,47.000000,8.000000
+215,Syria,SYR,3,11,Damascus,35.000000,38.000000
+216,Taiwan,TWN,3,12,Taipei,23.500000,121.000000
+217,Tajikistan,TJK,3,10,Dushanbe,39.000000,71.000000
+218,Tanzania,TZA,1,4,Dodoma,-6.000000,35.000000
+219,Thailand,THA,3,13,Bangkok,15.000000,100.000000
+17,The Bahamas,BHS,2,7,Nassau,24.250000,-76.000000
+80,The Gambia ,GMB,1,3,Banjul,13.466667,-16.566667
+63,Timor-Leste,TLS,3,13,Dili,-8.833333,125.916667
+220,Togo,TGO,1,3,Lome,8.000000,1.166667
+221,Tokelau,TKL,5,22,,-9.000000,-172.000000
+222,Tonga,TON,5,22,Nuku'alofa,-20.000000,-175.000000
+223,Trinidad and Tobago,TTO,2,7,Port of Spain,11.000000,-61.000000
+224,Tunisia,TUN,1,1,Tunis,34.000000,9.000000
+225,Turkey,TUR,3,11,Ankara,39.000000,35.000000
+226,Turkmenistan,TKM,3,10,Ashgabat,40.000000,60.000000
+227,Turks and Caicos Islands,TCA,2,7,Cockburn Town,21.750000,-71.583333
+228,Tuvalu,TUV,5,22,Funafuti,-8.000000,178.000000
+229,Uganda,UGA,1,4,Kampala,1.000000,32.000000
+230,Ukraine,UKR,4,15,Kyiv,49.000000,32.000000
+231,United Arab Emirates,ARE,3,11,Abu Dhabi,24.000000,54.000000
+232,United Kingdom,GBR,4,18,London,54.000000,-2.000000
+233,United States,USA,2,6,Washington,38.000000,-97.000000
+234,United States Minor Outlying Islands,UMI,2,6,,0.000000,0.000000
+235,Uruguay,URY,2,8,Montevideo,-33.000000,-56.000000
+236,Uzbekistan,UZB,3,10,Tashkent,41.000000,64.000000
+237,Vanuatu,VUT,5,20,Port Vila,-16.000000,167.000000
+238,Vatican City State (Holy See),VAT,4,16,Vatican City,41.900000,12.450000
+239,Venezuela,VEN,2,8,Caracas,8.000000,-66.000000
+240,Vietnam,VNM,3,13,Hanoi,16.166667,107.833333
+241,Virgin Islands (British),VGB,2,7,Road Town,18.431383,-64.623050
+242,Virgin Islands (US),VIR,2,7,Charlotte Amalie,18.340000,-64.930000
+243,Wallis and Futuna Islands,WLF,5,22,Mata Utu,-13.300000,-176.200000
+244,Western Sahara,ESH,1,1,El-Aaiun,24.500000,-13.000000
+245,Yemen,YEM,3,11,Sanaa,15.000000,48.000000
+246,Zambia,ZMB,1,5,Lusaka,-15.000000,30.000000
+247,Zimbabwe,ZWE,1,4,Harare,-20.000000,30.000000
