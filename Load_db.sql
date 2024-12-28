@@ -26,11 +26,11 @@ FROM './datacsv/regions.csv'
 WITH (FORMAT csv, HEADER true);
 
 
-\COPY Subregions (subregion_id, subregion_name, region_id, WikiDataId)
+\COPY Subregions (subregion_id, subregion_name, region_id, wikiDataId)
 FROM './datacsv/subregions.csv'
 WITH (FORMAT csv, HEADER true);
 
-\COPY Countries (country_id, country_name, iso_code3, iso_code2, numeric_code, phone_code, capital, currency_code, currency_name, currency_symbol, native_name, region_id, subregion_id, nationality, timezones, latitude, longitude)
+\COPY Countries (country_id,country_name,iso_code3,iso_code2,numeric_code,phone_code,capital,currency_code,currency_name,currency_symbol,tld,native_name,region,region_id,subregion,subregion_id,nationality,timezones,latitude,longitude,emoji,emojiU)
 FROM './datacsv/countries.csv'
 WITH (FORMAT csv, HEADER true);
 

@@ -8,7 +8,7 @@ CREATE TABLE Subregions(
     subregion_id INT PRIMARY KEY,
     subregion_name VARCHAR(100) NOT NULL,
     region_id INT NOT NULL,
-    wikidataID VARCHAR(20),
+    wikiDataID VARCHAR(20),
     FOREIGN KEY (region_id) REFERENCES Regions(region_id)
 );
 
