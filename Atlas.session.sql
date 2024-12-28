@@ -1,0 +1,5 @@
+SELECT * FROM Regions LIMIT 5;
+SELECT * FROM Subregions LIMIT 5;
+SELECT * FROM Countries LIMIT 5;
+SELECT * FROM States LIMIT 5;
+SELECT * FROM Cities LIMIT 5;
