@@ -30,7 +30,7 @@ WITH (FORMAT csv, HEADER true);
 FROM './datacsv/subregions.csv'
 WITH (FORMAT csv, HEADER true);
 
-\COPY Countries (country_id,country_name,iso_code3,iso_code2,numeric_code,phone_code,capital,currency_code,currency_name,currency_symbol,tld,native_name,region,region_id,subregion,subregion_id,nationality,timezones,latitude,longitude,emoji,emojiU)
+\COPY Countries (country_id,country_name,iso_code3,iso_code2,numeric_code,phone_code,capital,currency_code,currency_name,currency_symbol,tld,native_name,region_id,subregion_id,nationality,timezones,latitude,longitude)
 FROM './datacsv/countries.csv'
 WITH (FORMAT csv, HEADER true);
 
